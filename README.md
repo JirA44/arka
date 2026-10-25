@@ -1,3 +1,13 @@
+## Français
+
+SDK Rust pour agents IA qui interagissent avec des blockchains, incluant portefeuilles, DEX et paiements. Exemple : construire un agent qui lit l’état d’une chaîne et prépare une interaction. Vérifiez chaque transaction avant exécution.
+
+## English
+
+A Rust SDK for AI agents interacting with blockchains, including wallets, DEXs, and payments. Example: build an agent that reads chain state and prepares an interaction. Review every transaction before execution.
+
+---
+
 # arka
 
 Rust AI agent SDK for blockchain. By [kcolbchain](https://kcolbchain.com) (est. 2015).
